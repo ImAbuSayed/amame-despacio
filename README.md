@@ -1,4 +1,4 @@
-# Ámame despacio
+# Ámame despacio, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Ámame despacio |
+| **Title** | Ámame despacio, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/amame-despacio/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Ámame despacio](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amame-despacio/) |
+| **Get License** | [Get a Licensing Quote for Ámame despacio, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amame-despacio/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,7 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> ` and `
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +107,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 22, 2026 |
+| **SHA-256 Hash** | `51645d8cfc4e31bb6a706f330b75737d8c1b2397d834b7c19f9c2b7746b093b9` |
+| **Timestamp** | June 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
